@@ -1,0 +1,10 @@
+paddlepaddle>=2.5.0         # 若使用 GPU，请按 Paddle 官方安装命令替换为合适的 GPU 包
+paddleocr>=2.6.0
+opencv-python-headless
+Pillow
+numpy
+pdf2image
+img2pdf
+tqdm
+scikit-image
+flask
